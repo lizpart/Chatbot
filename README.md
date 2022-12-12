@@ -1,2 +1,2 @@
-### This code defines a simple chatbot that responds to user input.
+## This code defines a simple chatbot that responds to user input.
 The chatbot reads its "brain" from a JSON file called "brain.json" and uses this to determine how to respond to the user's input. The chatbot tokenizes the user's input, removes stop words (common words such as "the" and "and" that don't add much meaning to a sentence), and stems the remaining words (reducing them to their base form). It then searches its brain for any triggers that match the words in the user's input and chooses a random response from the corresponding responses. The chatbot's responses are then concatenated and returned to the user.
