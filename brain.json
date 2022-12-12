@@ -1,0 +1,20 @@
+{
+  "greetings": {
+      "hello": ["Hi there!", "Hello!", "Greetings!"],
+      "how are you": ["I'm doing well, thanks for asking.", "I'm doing great!"]
+  },
+  "favorite color": {
+      "favorite color": ["My favorite color is blue.", "I like all colors equally."],
+      "color": ["My favorite color is blue.", "I like all colors equally."]
+  },
+  "food": {
+      "like apples": ["Yes, I like apples.", "Sure they are my favorites"],
+      "like junks": ["No, I am working on my diet","Once in a while"]
+
+  },
+  "hobby": {
+     "watching": ["Yes,  i like watching sports.", "Netflix and chill for Movies "],
+     "playing": ["Video games", "Soccer", "Basketball", "Chess"]
+
+  }
+}
