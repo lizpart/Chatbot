@@ -41,8 +41,7 @@ def chatbot_response(message):
     chatbot.converse()
 
 # test the chatbot
-print(chatbot_response("Hello, how are you?"))
-print(chatbot_response("What's your favorite color?"))
-print(chatbot_response("Do you like apples?"))
-print(chatbot_response("Do you play chess?"))
+message = input("User: ")
+response = chatbot_response(message)
+print("Bot: ", response)
 
